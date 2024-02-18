@@ -45,6 +45,6 @@ src="https://img.shields.io/github/followers/menakabasu?logo=github&style=for-th
     <ul>
         <li><a href="https://github.com/menakabasu/menaka/tree/main/XML%20Assignment">XML ASSIGNMENT</a></li>
         <li><a href="https://github.com/menakabasu/menaka/tree/main/portifolia%20SQL%20Assignment">SQL</a></li>
-        <li><a href=" https://github.com/menakabasu/menaka/tree/main/POWERBI">POWERBI</a></li>
+        <li><a href="https://github.com/menakabasu/menaka/tree/main/POWERBI">POWERBI</a></li>
         <!-- Add more project links as needed -->
     </ul>
