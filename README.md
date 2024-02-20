@@ -49,7 +49,6 @@ src="https://img.shields.io/github/followers/menakabasu?logo=github&style=for-th
         <li><a href="https://github.com/menakabasu/menaka/tree/main/Tableau">TABLEAU</a></li>
         <li><a href="https://github.com/menakabasu/menaka/tree/main/%20python">Python</a></li>
         <li><a href="https://github.com/menakabasu/menaka/tree/main/Phython-pandas">Python Pandas</a></li>
-     
-     
-        <!-- Add more project links as needed -->
+             
+       
     </ul>
