@@ -9,7 +9,7 @@ I am a Computer Science Engineer with 7 years of development experience as a Web
 * 🌍  I'm based in London
 * ✉️  You can contact me at [menakabasu@gmail.com](mailto:menakabasu@gmail.com)
 * 🧠  I'm learning Data Visualization using Excel, Tableau, Power BI, and R Studio, Python,SQL
-* 🤝  I'm open to collaborating on Medical and Health or anyothersector
+* 🤝  I'm open to collaborating on Medical and Health or  any Sectors
 
 <a href="https://www.github.com/menakabasu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/menakabasu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
