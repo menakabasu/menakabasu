@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Data Analyst
 ---------------------
 
-I am a Computer Science Engineer with 7 years of development experience as a Web App developer in varied industries like Telecom, bioinformatics, and Software Services. I am keen to restart my career as a Junior Data Analyst from my career break and have gone through a Data Technician boot camp experience to help me achieve that. Through my development experience, I have developed the soft skills of working collaboratively with others, communicating clearly with developers and stakeholders alike, problem-solving, and delivering quality work within timelines.
+I am a Computer Science Engineer with 7 years of development experience as a Java Web App developer in varied industries like Telecom, bioinformatics, and Software Services. I am keen to restart my career as a Junior Data Analyst from my career break and have gone through a Data Technician boot camp experience to help me achieve that. Through my development experience, I have developed the soft skills of working collaboratively with others, communicating clearly with developers and stakeholders alike, problem-solving, and delivering quality work within timelines.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [menakabasu@gmail.com](mailto:menakabasu@gmail.com)
