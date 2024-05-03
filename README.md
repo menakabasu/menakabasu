@@ -43,8 +43,8 @@ src="https://img.shields.io/github/followers/menakabasu?logo=github&style=for-th
 <div width="100%" align="center"><a href="https://github.com/menakabasu/menaka" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=menakabasu&repo=menaka&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
  <h1>My Projects</h1>
     <ul>
-        <li><a href="https://github.com/menakabasu/menaka/tree/main/XML%20Assignment">Excel ASSIGNMENT</a></li>
-        <li><a href="https://github.com/menakabasu/menaka/tree/main/portifolia%20SQL%20Assignment">SQL</a></li>
+        <li><a href="https://github.com/menakabasu/menaka/tree/main/XML%20Assignment">Excel</a></li>
+        <li><a href="https://github.com/menakabasu/menaka/tree/main/portifolia%20SQL%20">SQL</a></li>
         <li><a href="https://github.com/menakabasu/menaka/tree/main/POWERBI">POWERBI</a></li>
         <li><a href="https://github.com/menakabasu/menaka/tree/main/Tableau">TABLEAU</a></li>
         <li><a href="https://github.com/menakabasu/menaka/tree/main/%20python">Python</a></li>
